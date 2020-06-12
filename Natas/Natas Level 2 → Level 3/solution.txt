@@ -1,0 +1,13 @@
+1.) Clue: There is nothing on this page 
+2.) Inspect
+3.) There is a file called pixel. Click on it
+4.) Now we can see it is in a subfolder called files -> http://natas2.natas.labs.overthewire.org/files
+5.) Second file is present called users.txt
+
+# username:password
+alice:BYNdCesZqW
+bob:jw2ueICLvT
+charlie:G5vCxkVV3m
+natas3:sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+eve:zo4mJWyNj2
+mallory:9urtcpzBmH
