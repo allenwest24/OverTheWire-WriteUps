@@ -1,0 +1,4 @@
+1.) Right click
+2.) inspect
+3.) look around and find the line:
+<!--The password for natas1 is gtVrDuiDfck831PqWsLEZy5gyDz1clto -->
