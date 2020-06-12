@@ -1,0 +1,4 @@
+1.) Site says "You can find the password for the next level on this page, but rightclicking has been blocked!"
+2.) Ctrl + Shift + C
+3.) In the inspect part we find:
+The password for natas2 is ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi 
