@@ -1,0 +1,15 @@
+1.) Clue: There is nothing on this page
+2.) Inspect
+3.) No more information leaks!! Not even Google will find it this time... 
+4.) This made me think of robots.txt
+5.) -> http://natas3.natas.labs.overthewire.org/robots.txt
+User-agent: *
+Disallow: /s3cr3t/
+6.) -> http://natas3.natas.labs.overthewire.org/s3cr3t/
+Index of /s3cr3t
+[ICO]	Name	Last modified	Size	Description
+[PARENTDIR]	Parent Directory	 	- 	 
+[TXT]	users.txt	2016-12-20 05:15 	40 	 
+Apache/2.4.10 (Debian) Server at natas3.natas.labs.overthewire.org Port 80
+7.) -> users.txt
+natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
