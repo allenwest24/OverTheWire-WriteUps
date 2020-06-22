@@ -1,0 +1,8 @@
+// Open to a page that says: "Access disallowed, you are visiting from <>, while authorized users should only be coming from 
+// "http://natas5.natas.labs.overthewire.com"
+// Opened referer in BurpSuite
+// Changed it to http://natas5.natas.labs.overthewire.com
+.
+.
+.
+Access granted. The password for natas5 is iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
