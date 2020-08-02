@@ -5,6 +5,10 @@ Leviathan is a wargame that has been rescued from the demise of intruded.net, pr
 
 What follows below is the original description of leviathan, copied from intruded.net:
 
+### Progress
+
+- 7/7 Levels completed!
+
 ### Summary:
 Difficulty:     1/10
 Levels:         8
