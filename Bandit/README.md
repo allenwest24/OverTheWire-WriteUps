@@ -4,6 +4,10 @@ The Bandit wargame is aimed at absolute beginners. It will teach the basics need
 be able to play other wargames. If you notice something essential is missing or have 
 ideas for new levels, please let us know!
 
+### Progress
+
+- 25/34 Levels completed!
+
 ### Note for beginners
 
 This game, like most other games, is organised in levels. You start at Level 0 and 
